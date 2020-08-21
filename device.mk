@@ -464,6 +464,10 @@ PRODUCT_SOONG_NAMESPACES += \
 # Signapk
 PRODUCT_HOST_PACKAGES += \
     signapk
+    
+# Tethering
+PRODUCT_PACKAGES += \
+    TetheringConfigOverlay
 
 # Thermal
 PRODUCT_COPY_FILES += \
