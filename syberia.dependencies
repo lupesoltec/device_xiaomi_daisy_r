@@ -1,0 +1,37 @@
+[
+ {
+   "repository" : "Daisy-R-sources/kernel_xiaomi_sleepy",
+   "target_path": "kernel/xiaomi/daisy",
+   "branch"     : "dumaloo-release"
+ },
+ {
+   "repository" : "SyberiaProject-Devices/platform_device_xiaomi_daisy",
+   "target_path": "device/xiaomi/daisy",
+   "branch"     : "11.0"
+ },
+ {
+   "repository" : "lupesoltec/vendor_xiaomi_daisy_r",
+   "target_path": "vendor/xiaomi",
+   "branch"     : "syberia"
+ },
+ {
+   "repository" : "Jabiyeff/android_hardware_qcom_audio/commits/",
+   "target_path": "hardware/qcom-caf/msm8996/audio",
+   "branch"     : "caf-msm8996-r"
+ },
+ {
+   "repository" : "Jabiyeff/android_hardware_qcom_display/commits/",
+   "target_path": "hardware/qcom-caf/msm8996/display",
+   "branch"     : "caf-msm8996-r"
+ },
+ {
+   "repository" : "Jabiyeff/android_hardware_qcom_media/commits/",
+   "target_path": "hardware/qcom-caf/msm8996/media",
+   "branch"     : "caf-msm8996-r"
+ },
+ {
+   "repository" : "kdrag0n/proton-clang",
+   "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+   "branch"     : "master"
+ }
+]
