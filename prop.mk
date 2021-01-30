@@ -157,7 +157,7 @@ ro.lmk.debug=false
 
 # Live Blur
 PRODUCT_PRODUCT_PROPERTIES += \
-debug.sf.latch_unsignaled=1 \
+debug.sf.latch_unsignaled=0 \
 debug.sf.disable_backpressure=1
 
 # Media
